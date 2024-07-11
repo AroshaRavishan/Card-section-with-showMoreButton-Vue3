@@ -2,6 +2,14 @@
 
 This Vue component displays a grid of cards with titles and subtitles, along with "Show more" and "View all" buttons to control the visibility of the cards.
 
+## Preview
+
+### Show More
+![Show More Preview](https://github.com/AroshaRavishan/Card-section-with-showMoreButton-Vue3/blob/main/show%20more%20preview.png)
+
+### Show Less
+![Show Less Preview](https://github.com/AroshaRavishan/Card-section-with-showMoreButton-Vue3/blob/main/show%20less%20preview.png)
+
 ## Features
 
 - **Responsive Design**: The component adjusts the number of initially displayed cards based on the window width.
